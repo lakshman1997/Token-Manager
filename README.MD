@@ -1,6 +1,6 @@
 Fail-Silent Replicated Token Manager with Atomic Semantics
 
-Sandeep Ravuri (YL30934) (sravuri1@umbc.edu)
+Venkata Rama Lakshman Nukala (HR39332) (vnukala1@umbc.edu)
 
 
 This is an extension of  Client-Server Token Model built using GRPC, command Line flags, Mutex, and Bash Script 
